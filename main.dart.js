@@ -24864,7 +24864,7 @@ _.a=d},
 a3F:function a3F(a,b){this.a=a
 this.b=b},
 jG(){var s=t.s,r=t.N,q=t.yp,p=t.z
-return new A.Ko(A.b([A.an(["ABOUT US",A.b(["88 Peckham Rye, Peckham, London SE15 4HA. \n020 7732 7411 \n074 0217 1149 \nsales1@easyprint.london \neasyprint33@gmail.com"],s)],r,q),A.an(["We can HELP",A.b(["Printing Paper Sizes","Support Guides","Supplying Artwork","Templates","Large Format"],s)],r,q),A.an(["Services",A.b(["Graphic Design","Card Designs","Leaflets","Stickers","Large Format","Mugs"],s)],r,q),A.an(["CONTACT US",A.b(["Contact Us","020 7732 7411","By Shop Visit"],s)],r,q)],t.c7),A.b([A.an(["icon",B.FI,"url","https://www.facebook.com/EasyPrintUK"],r,p),A.an(["icon",B.FF,"url","https://www.instagram.com/easyprint88/"],r,p),A.an(["icon",B.no,"url","https://wa.me/447402171149"],r,p),A.an(["icon",B.FG,"url","mailto:easyprint33@gmail.com"],r,p)],t.H7),null)},
+return new A.Ko(A.b([A.an(["ABOUT US",A.b(["88 Peckham Rye, Peckham, London SE15 4HA. \n020 7732 7411 \n074 0217 1149 \nsales1@easyprint.london \neasyprint33@gmail.com"],s)],r,q),A.an(["We can HELP",A.b(["Printing Paper Sizes","Support Guides","Supplying Artwork","Templates","Large Format"],s)],r,q),A.an(["Services",A.b(["Graphic Design","Card Designs","Leaflets","Stickers","Large Format","Cutomized Mugs & Tshirts"],s)],r,q),A.an(["CONTACT US",A.b(["Contact Us","020 7732 7411","By Shop Visit"],s)],r,q)],t.c7),A.b([A.an(["icon",B.FI,"url","https://www.facebook.com/EasyPrintUK"],r,p),A.an(["icon",B.FF,"url","https://www.instagram.com/easyprint88/"],r,p),A.an(["icon",B.no,"url","https://wa.me/447402171149"],r,p),A.an(["icon",B.FG,"url","mailto:easyprint33@gmail.com"],r,p)],t.H7),null)},
 Ko:function Ko(a,b,c){this.c=a
 this.d=b
 this.a=c},
