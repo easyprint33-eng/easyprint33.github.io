@@ -1,11 +1,11 @@
 {
-    "name": "flutter_application_easyprint",
-    "short_name": "flutter_application_easyprint",
+    "name": "EasyPrint",
+    "short_name": "EasyPrint",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Easy Print – Your Local Printing Experts! We print it all – any size, any style! From business cards and banners to T-shirts and gifts. Same-day design, approval & printing. Fast, high-quality, affordable service for small or large orders.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
